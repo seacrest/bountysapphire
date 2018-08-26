@@ -29,6 +29,7 @@ Pre-requisite:
 - truffle (you can install it with: `npm install -g truffle`)
 - ganache-cli (you can install it with: `npm install -g ganache-cli`)
 
+
 1. unzip all content of the zip file into a project folder:
 ```
 mkdir bountysapphire
