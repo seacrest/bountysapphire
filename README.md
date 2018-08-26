@@ -75,13 +75,14 @@ To run the tests, execute truffle test inside the project directory
 truffle test
 
 7 tests are created and they should all pass.
-  Contract: BountiesSapphire
-    - Tests the BountiesSapphire registry works
-    - Tests new bounty can be created
-    - Tests sending a date in the past will fail to create a bounty
-    - Tests we cannot create a bounty with zero payout
-    - Tests a simple bounty submission acceptance flow works
-    - Tests changing a submission works
-    - Tests changing an accepted submission fails
+
+Contract: BountiesSapphire
+- Tests the BountiesSapphire registry works
+- Tests new bounty can be created
+- Tests sending a date in the past will fail to create a bounty
+- Tests we cannot create a bounty with zero payout
+- Tests a simple bounty submission acceptance flow works
+- Tests changing a submission works
+- Tests changing an accepted submission fails
 
 
