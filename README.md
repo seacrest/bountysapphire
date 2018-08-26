@@ -23,11 +23,11 @@ If you are a bounty hunter, you can submit work to a bounty for review.
 In order to run the user interace of the DApp (which is default to http://localhost:8080), follow the steps outlined below:
 
 Pre-requisite:
-browser with MetaMask installed
-git
-node.js, npm
-truffle (you can install it with: `npm install -g truffle`)
-ganache-cli (you can install it with: `npm install -g ganache-cli`)
+- browser with MetaMask installed
+- git
+- node.js, npm
+- truffle (you can install it with: `npm install -g truffle`)
+- ganache-cli (you can install it with: `npm install -g ganache-cli`)
 
 1. unzip all content of the zip file into a project folder:
 ```
