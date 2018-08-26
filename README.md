@@ -36,7 +36,7 @@ cd bountysapphire
 (unzip all files in the project zip file to this folder) 
 ```
 
-2. Start the ganachi-cli local blockchain in another terminal
+2. Start the ganachi-cli local blockchain in another terminal (Note: If you pull the files from the github repository instead of unzipping the bountysapphire.zip file, you may need to create the .ganache folder under the project folder as git is not adding hidden folder to the repository)
 ```
 cd bountysapphire
 source .envrc
